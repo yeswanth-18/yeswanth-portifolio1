@@ -108,7 +108,7 @@ export const HeroSection = () => {
               <div className="w-full h-full rounded-full bg-card overflow-hidden">
                 <img 
                   src="/profile-picture.jpeg" 
-                  alt="Majji Yeswanth Venkata Sai"
+                  alt="majji yeswanth"
                   className="w-full h-full object-cover rounded-full"
                 />
               </div>
@@ -120,9 +120,9 @@ export const HeroSection = () => {
           className="text-5xl md:text-7xl font-bold mb-6"
           variants={itemVariants}
         >
-          <span className="text-gradient">Majji Yeswanth</span>
+          <span className="text-gradient">Majji</span>
           <br />
-          <span className="text-foreground">Venkata Sai</span>
+          <span className="text-foreground">yeswanth</span>
         </motion.h1>
 
         <motion.p

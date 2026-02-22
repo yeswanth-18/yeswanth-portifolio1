@@ -5,7 +5,7 @@ export const Footer = () => {
   const socialLinks = [
     {
       icon: Mail,
-      href: "mailto:munnamajji1@gmail.com",
+      href: "mailto:yaswanthmajji20@gmail.com",
       label: "Email"
     },
     {
@@ -15,7 +15,7 @@ export const Footer = () => {
     },
     {
       icon: Github,
-      href: "https://github.com/munnamajji",
+      href: "https://github.com/yeswanth-18",
       label: "GitHub"
     }
   ];
@@ -48,7 +48,7 @@ export const Footer = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h3 className="text-2xl font-bold text-gradient mb-4">Majji Yeswanth</h3>
+            <h3 className="text-2xl font-bold text-gradient mb-4\">Majji yeswanth</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
               Full-Stack Developer passionate about creating innovative web solutions 
               and building meaningful digital experiences.
@@ -105,7 +105,7 @@ export const Footer = () => {
           >
             <h4 className="text-lg font-semibold mb-6">Get In Touch</h4>
             <div className="space-y-3 text-muted-foreground">
-              <p>munnamajji1@gmail.com</p>
+              <p>yaswanthmajji20@gmail.com</p>
               <p>+91 9100187849</p>
               <p>Andhra Pradesh, India</p>
             </div>
@@ -129,7 +129,7 @@ export const Footer = () => {
           className="border-t border-border/50 mt-12 pt-8 text-center"
         >
           <p className="text-muted-foreground flex items-center justify-center gap-2">
-            Made by Majji Yeswanth Venkata Sai
+            Made by Majji yeswanth
           </p>
           <p className="text-muted-foreground text-sm mt-2">
             © {new Date().getFullYear()} All rights reserved.

@@ -11,11 +11,11 @@ import { Footer } from "@/components/portfolio/Footer";
 const Index = () => {
   return (
     <>
-      <title>Majji Yeswanth Venkata Sai - Full-Stack Developer</title>
+      <title>Majji yeswanth - Full-Stack Developer</title>
       <meta name="description" content="Full-Stack Web Developer specializing in React, Node.js, and modern web technologies. Building interactive, secure, and scalable applications." />
       <meta name="keywords" content="Full-Stack Developer, React Developer, Node.js, Web Development, JavaScript, Portfolio" />
-      <meta name="author" content="Majji Yeswanth Venkata Sai" />
-      <meta property="og:title" content="Majji Yeswanth Venkata Sai - Full-Stack Developer" />
+      <meta name="author" content="Majji yeswanth" />
+      <meta property="og:title" content="Majji yeswanth - Full-Stack Developer" />
       <meta property="og:description" content="Full-Stack Web Developer specializing in React, Node.js, and modern web technologies." />
       <meta property="og:type" content="website" />
       
